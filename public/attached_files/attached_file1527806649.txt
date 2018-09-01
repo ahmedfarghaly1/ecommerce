@@ -1,0 +1,10 @@
+
+        FLUX 2 by ghost
+
+        SSID: alaa
+        BSSID: 50:04:B8:B6:61:48 ()
+        Channel: 11
+        Security: WPA2
+        Time: 00:03:35
+        Password: 34346767
+        
